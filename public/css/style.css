@@ -1,0 +1,13 @@
+.sampul {
+  height: 70px;
+  width: auto;
+}
+
+.table>tbody>tr>* {
+  vertical-align: middle;
+}
+
+.logo {
+  width: 50px;
+  height: auto;
+}
